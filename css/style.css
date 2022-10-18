@@ -3,14 +3,17 @@ body {
   background-color: (0,255,212);
   color: (255,255,255);
 }
-.imgageBorder {
+
+imgageBorder {
   border-style: outset;
   border-color: (0,220,255);
 }
+
 h1 {
   border-color: (255,255,255);
   border-style: inset;
 }
+
 </style>
   
     
