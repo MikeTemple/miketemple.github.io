@@ -9,6 +9,7 @@ imgageborder
 {
   border-style: outset;
   border-color: (0,220,255);
+  align: center;
 }
 
 h1 
