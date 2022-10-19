@@ -28,7 +28,8 @@ p
 }
 img
 {
-    border: 5px solid #555
+    border: 5px solid #555;
+    align: center;
 }
 body
 {
