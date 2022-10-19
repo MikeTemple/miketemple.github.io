@@ -1,20 +1,27 @@
-<style>
-body 
+:root
 {
-  background-color: (0,255,212);
-  text-color: (255,255,255);
+    --favcolor: rgb(0, 255, 212);
 }
-
-imgageborder
+h1
 {
-  border-style: outset;
-  border-color: (0,220,255);
-  align: center;
+    text-align: center;
+    color: var(--favcolor);
+    background-color: rgb(25,0,0);
+    font-size: 38pt;
 }
-
-h1 
+section
 {
-  border-color: (255,255,255);
-  border-style: inset;
+    color: var(--favcolor);
+    float: left;
 }
-</style>
+p
+{
+    text-align: center;
+    font-size: 14pt;
+    text-color: rgb(255,255,255)
+}
+#mainpic
+{
+    border-radius: 50%;
+    border-style: outset;
+}
